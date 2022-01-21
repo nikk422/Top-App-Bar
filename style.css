@@ -67,7 +67,7 @@ body{
     background-color:rgb(150, 147, 147);
     border-radius: 2rem;
 }
-@media only screen and (max-width:610px){
+@media only screen and (max-width:512px){
     html{
         font-size:12px;
     }
