@@ -35,8 +35,8 @@ body{
     html{
         font-size:12px;
     }
-    .header{
+/*     .header{
         display:grid;
         grid-gap: .5rem;
-    }
+    } */
 }
