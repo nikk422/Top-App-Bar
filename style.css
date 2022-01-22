@@ -6,7 +6,7 @@ body{
 .container{
     width: 100%;
     overflow: auto;
-    height: 50%;
+    height: 80vh;
     border:1px solid black;
 }
 
