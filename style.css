@@ -41,3 +41,18 @@ body{
         font-size:10px;
     }
 }
+@media only screen and (min-width:457px){
+    .header{
+    /* width: 35%; */
+    /* height: 10vh; */
+    background-color:blueviolet;
+    display:grid;
+    grid-template-columns: .2fr 20fr 1fr 1fr  1fr .5fr  ;
+    align-items:center;
+    color: white;
+    grid-gap: 3rem;
+    position:sticky;
+    top: 0;
+    /* border-bottom-right-radius:2rem; */
+}
+
